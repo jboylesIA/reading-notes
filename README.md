@@ -1,12 +1,8 @@
-# reading-notes
-
-*Lab 01-b*
-
-Growth mindeset, to me is a matter of perspective.  All of us at times struggle with "stinking thinking" and to over come such mental road blocks we can shift to seeking the silver linning in all things. The term embrace the suck and to realize the reward comes to mind.  With a growth mindset, challenges, obstacles, effort, criticism, and the sucess of others can all serve as positive motivators along with opportunities for valuable learning experiences.  With practice viewing things with a growth mindset will become more of the rule as opposed to the accecption.
-
-**Reminders:**
-- Take care of yourself, rest, good diet and exercise.
-- Welcome challenge and relish in the effort.  Its totally worth it.
-- Seek out opportunites to collaborate.  Opportunities to learn are abundant in working with others.
-
-[Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+[Class -01 Reading Assingment](Reading-01.md)
+[Class -02 Reading Assingment](Reading-02.md)
+[Class -03 Reading Assingment](Reading-03.md)
+[Class -04 Reading Assingment](Reading-04.md)
+[Class -05 Reading Assingment](Reading-05.md)
+[Class -06 Reading Assingment](Reading-06.md)
+[Class -07 Reading Assingment](Reading-07.md)
+[Class -08 Reading Assingment](Reading-08.md)
