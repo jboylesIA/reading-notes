@@ -14,19 +14,19 @@ Growth mindeset, to me is a matter of perspective.  All of us at times struggle 
 *Reading-01*
 
 **Markdown Syntax**
-  A. Defined as the arrangement of words and phrases to create well-formed sentences in a programing language.
-  B. Uses text and sympbols to create different atributes.
+  -. Defined as the arrangement of words and phrases to create well-formed sentences in a programing language.
+  -. Uses text and sympbols to create different atributes.
     1. Example # Heading level 1 will create a heading in large text and ## Heading level 2 will be one size smaller.
-  C. Supported by many editors.
+  -. Supported by many editors.
   
 **GitHub**
-  A. A community that provides a place to create share and borrow code.  
+  -. A community that provides a place to create share and borrow code.  
     1. Tracks changes
     2. Stores repos
-  B. Repos can be cloned for edditing within a terminal.
+  -. Repos can be cloned for edditing within a terminal.
     1. Supports offline or local editing of files that can be ACP(Add commit and pushed) back to your GitHub repo.
-  C. GitHub is run from Git.  Both are widely popular amoung developers.
+  -. GitHub is run from Git.  Both are widely popular amoung developers.
 
-[GitHub Guide]([https://www.markdownguide.org/basic-syntax/](https://docs.github.com/en/get-started))
+[GitHub Guide]([https://www.markdownguide.org/basic-syntax/](https://docs.github.com/en/get-started)
 
 
