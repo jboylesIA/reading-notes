@@ -27,6 +27,6 @@ Growth mindeset, to me is a matter of perspective.  All of us at times struggle 
       - Supports offline or local editing of files that can be ACP(Add commit and pushed) back to your GitHub repo.
   - GitHub is run from Git.  Both are widely popular amoung developers.
 
-[GitHub Guide]([https://www.markdownguide.org/basic-syntax/](https://docs.github.com/en/get-started)
+[GitHub Guide](https://docs.github.com/en/get-started)
 
 
