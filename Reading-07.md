@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+```html
+<!DOCTYPE  html>
 <html>
    <head>
       <title>Reading-07</title>
@@ -40,3 +41,4 @@
       <footer></footer>
    </body>
 </html>
+```
