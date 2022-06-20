@@ -1,3 +1,7 @@
+# Reading Notes
+
+These are reaing notes for my classes.
+
 ## Code 102 Reading Notes
 
 - [Class -01 Reading Assingment](Reading-01.md)
@@ -9,4 +13,4 @@
 - [Class -07 Reading Assingment](Reading-07.md)
 - [Class -08 Reading Assingment](Reading-08.md)
 
-# Code 201 Reading Notes
+## Code 201 Reading Notes
