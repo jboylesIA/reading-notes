@@ -1,10 +1,10 @@
 # Reading Notes
 
-These are reaing notes for my classes.
+These are reading notes for my classes.
 
 ## Code 102 Reading Notes
 
-- [Class -01 Reading Assingment](Reading-01.md)
+- [Class -01 Reading Assingment](code102/Reading-01.md)
 - [Class -02 Reading Assingment](Reading-02.md)
 - [Class -03 Reading Assingment](Reading-03.md)
 - [Class -04 Reading Assingment](Reading-04.md)
