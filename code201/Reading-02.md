@@ -5,31 +5,56 @@
 ## Continue Reading Introduction to HTML, HTML Text Fundamentals, HTML Advanced Text Formatting. ##
 
 #### Why is it important to use semantic elements in our HTML? ####
-- 
+- Semantic elements help make code more readable and easier to maintain.  They can help the developer too when laying code out and taking into consideration the structure and hierarchy.
        
-#### 2nd item topic with repsone below  ####
+#### How many levels of headings are there in HTML?  ####
 
-- 
+- 6 total, H1 - H6.  # - ######
 
-#### 3rd item topic with repsone below ####
+#### What are some uses for the sup and sub elements? ####
 
-- 
+- sup = Footnotes.  Places text half a character above the normal line.
 
-#### How do you create a String vs a Number in JavaScript? ####
+- sub = Definition and Usage. Places text half a character below the normal line.
 
-- String Example : let text = "John Doe";
-- Number Example : let x = 3.14; or let y = 3;       
+#### When using the abbr element, what attribute must be added to provide the full expansion of the term? ####
 
-#### What is a Variable and why are they important in JavaScript? ####
+- Title     
 
-A JS variable is anyhting that can vary.  A variable stores the data that can be changed later.  Variables allow us to remeber groups of information with one word.
+## Learn JS ##
 
-## 2nd main topic ##
+#### What data type is a sequence of text enclosed in single quote marks?####
 
-#### 4th item topic with response below ####
+- String 
 
-- All HTML elements can have attributes
+#### List 4 types of JavaScript operators. ####
+
+- Addition (+), subtraction (-), increment (++), decrement (--)
+
+#### Describe a real world Problem you could solve with a Function. ####
+
+- Common illness screening with symptom based questions and output of possible condition.
+
+## Making Decisions In Your Code – Conditionals. ##
+
+#### An if statement checks a __ and if it evaluates to ___, then the code block will execute. ####
+
+-  condition, true
+
+#### What is the use of an else if? ####
+
+- Use else to specify a block of code to be executed, if the same condition is false. 
+
+#### List 3 different types of comparison operators. ####
+
+- (==) equal to
+- (>=) greater than or equal to
+- (!=) not equal
+
+#### What is the difference between the logical operator && and ||? ####
+
+- && logical and, || logical or
 
 # Things I want to know #
 
-- When will the cows come home...ect
+- 
