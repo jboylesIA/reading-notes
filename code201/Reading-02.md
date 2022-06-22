@@ -2,7 +2,7 @@
 
 # Basics of HTML, CSS & JS #
 
-## Basics of HTML, CSS and JS are important foundation and biuilding block for properly written code but also for leanring, understanding and reading written code. ##
+## Basics of HTML, CSS and JS are important foundation and building block for properly written code but also for leanring, understanding and reading written code. ##
 
 #### Why is it important to use semantic elements in our HTML? ####
 - Semantic elements help make code more readable and easier to maintain.  They can help the developer too when laying code out and taking into consideration the structure and hierarchy.
