@@ -2,7 +2,7 @@
 
 # Basics of HTML, CSS & JS #
 
-## Continue Reading Introduction to HTML, HTML Text Fundamentals, HTML Advanced Text Formatting. ##
+## Basics of HTML, CSS and JS are important foundation and biuilding block for properly written code but also for leanring, understanding and reading written code. ##
 
 #### Why is it important to use semantic elements in our HTML? ####
 - Semantic elements help make code more readable and easier to maintain.  They can help the developer too when laying code out and taking into consideration the structure and hierarchy.
@@ -19,7 +19,31 @@
 
 #### When using the abbr element, what attribute must be added to provide the full expansion of the term? ####
 
-- Title     
+- Title 
+
+## Learn CSS ##
+
+#### What are ways we can apply CSS to our HTML?####
+
+- Inline styling attribute, with a link from a CSS file, using a style element in the head.
+
+#### Why should we avoid using inline styles? ####
+
+- It is not best practice, groups content and styling together making it more difficult to maintain code.
+
+#### Review the block of code below and answer the following questions: ####
+
+- Which components are considered properties?
+
+- Why should we avoid using inline styles?
+
+- Review the block of code below and answer the following questions:
+    - What is representing the selector?
+        - H2
+    - Which components are the CSS declarations?
+        - Property and value
+    - Which components are considered properties?
+        - Font size
 
 ## Learn JS ##
 
