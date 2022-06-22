@@ -59,14 +59,14 @@ document?
     - Logical AND assignment (&&=)
         - The logical AND assignment (x &&= y) operator only assigns if x is truthy.
 
-    - Read the code below and evaluate the last expression and explain what the result would be and why.
+- Read the code below and evaluate the last expression and explain what the result would be and why.
         - Again I need more explanation on this.
 
-    - Describe a real world example of when a conditional statement should be used in a JavaScript program.
+- Describe a real world example of when a conditional statement should be used in a JavaScript program.
         - Password entry.
 
-- Give an example of when a Loop is useful in JavaScript.
-        - When you need to do something repeaditly.
-        
+- Give an example of when a Loop is useful in JavaScript
+    - When you need to do something repeaditly.
+
 # Things I want to know #
 
